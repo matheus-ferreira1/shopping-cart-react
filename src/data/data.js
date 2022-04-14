@@ -18,6 +18,24 @@ const data = {
          price: 1000,
          image: 'https://picsum.photos/id/21/3008/2008',
       },
+      {
+         id: '4',
+         name: 'Morango mofado',
+         price: 100,
+         image: 'https://picsum.photos/id/1080/367/267',
+      },
+      {
+         id: '5',
+         name: 'Ticket trem lotado hora do rush',
+         price: 500,
+         image: 'https://picsum.photos/id/1026/367/267',
+      },
+      {
+         id: '6',
+         name: 'Café aguado',
+         price: 1000,
+         image: 'https://picsum.photos/id/1060/367/267',
+      },
    ]
 };
 
