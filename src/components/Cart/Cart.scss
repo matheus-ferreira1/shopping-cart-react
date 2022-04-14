@@ -1,0 +1,13 @@
+.align-row {
+   display: flex;
+   align-items: center;
+}
+
+.btn-container {
+   display: flex;
+
+   button {
+      line-height: 1;
+      width: 2rem;
+   }
+}
