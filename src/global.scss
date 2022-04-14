@@ -79,11 +79,15 @@ a {
 }
 
 .background {
-   background-color: var(--gray-800);
+   background-color: var(--gray-850);
    padding: 1rem;
    margin: 0.5rem;
-   border-radius: 0.5rem;
+   border-radius: 0.2rem;
 }
 .row.center {
    align-items: center;
+}
+
+.text-right {
+   text-align: right;
 }

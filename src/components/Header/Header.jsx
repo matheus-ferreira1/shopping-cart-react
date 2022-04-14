@@ -5,7 +5,7 @@ export default function Header() {
     <header className='row background center'>
        <div>
           <a href="">
-             <h1>Shopping Cart</h1>
+             <h1>25,5 de Maio Online</h1>
           </a>
        </div>
        <div>
